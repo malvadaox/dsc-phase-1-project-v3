@@ -36,7 +36,10 @@ this is the data sorce to be used in this analysis project [dataset](https://www
 -Data cleaning is a critical process that involves **identifying and rectifying inaccuracies, inconsistencies, and missing values within the collected datasets.**
 - We identified the percentage(%) of total number of values missing in all columns.This provides a basis on each column and their relevance to provide key insights to our project.
 - Columns missing a higher % of data are dropped and columns not required in our analysis are dropped eg. Latitude,Longitude,Schedule...etc
--We the remove duplicates, standarde formats, filling in missing information through estimation 
+-We the remove duplicates, standarde formats, filling in missing information through estimation
+
+![image](https://github.com/user-attachments/assets/2d4b4acf-6142-4c2b-8fda-6e4b94a49c62)
+
 
 
 ### Data Aggregation
