@@ -84,8 +84,11 @@ This helps non-technical people understand the data and make beter decisions bas
 
 ### Recomendations
 following analysis and everyother step above the following would be my recommendations:
+
 -**Prioritize purchase of newer aircrafts**- the linegrph showed us us time went on the newer planes were less likely to get in accidents based of on the data
+
 -**Consider routes with better weather condituions**  -  the boxplot shows us that the weather was a cosiderable factor when considering the likely-hood of an accident, better weather would be something to consider in terms of the aircrafts route
+
 -**public sector would be a better investment than private sector**- planes used for the purpose of private usage were more likely to crash.
 
 ### Conclusion
