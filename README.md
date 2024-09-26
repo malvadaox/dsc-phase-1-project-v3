@@ -73,6 +73,7 @@ this is the data sorce to be used in this analysis project [dataset](https://www
 
 
 
+
 ### Recomendations
 following analysis and everyother step above the following would be my recommendations:
 -**Prioritize purchase of newer aircrafts**- the linegrph showed us us time went on the newer planes were less likely to get in accidents based of on the data
