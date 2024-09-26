@@ -55,7 +55,6 @@ This helps non-technical people understand the data and make beter decisions bas
 
 
 
-![image](https://github.com/user-attachments/assets/468115ae-e987-4087-8117-3a1cc16c7e85)
 
 
 
@@ -72,7 +71,8 @@ This helps non-technical people understand the data and make beter decisions bas
 
 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/468115ae-e987-4087-8117-3a1cc16c7e85)
+
 
 
 
