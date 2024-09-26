@@ -1,46 +1,60 @@
-# Phase 1 Project Description
+# AVIATION EVALUATION STRATEGY PROJECT
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
+## Project Overview 
 
-Now you will put your new skills to use with a large end-of-Phase project!
+The aim of the project is to assist stakeholders in evaluating the risks associated with various aircraft models, thereby guiding informed purchasing decisions for commercial and private enterprises as part of the company’s diversification strategy into the aviation industry.As the stakeholder seeks to expand its portfolio into the aviation sector.
 
-In this project description, we will cover:
 
-* [***Project Overview:***](#project-overview) the project goal, audience, and dataset
-* [***Deliverables:***](#deliverables) the specific items you are required to produce for this project
-* [***Grading:***](#grading) how your project will be scored
-* [***Getting Started:***](#getting-started) guidance for how to begin your first project
-
-## Project Overview
-
-For this project, you will use data cleaning, imputation, analysis, and visualization to generate insights for a business stakeholder.
-
-### Business Problem
+## Business Problem
 
 Your company is expanding in to new industries to diversify its portfolio. Specifically, they are interested in purchasing and operating airplanes for commercial and private enterprises, but do not know anything about the potential risks of aircraft. You are charged with determining which aircraft are the lowest risk for the company to start this new business endeavor. You must then translate your findings into actionable insights that the head of the new aviation division can use to help decide which aircraft to purchase.
 
-### The Data
+## Business understanding
 
-In the `data` folder is a [dataset](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) from the National Transportation Safety Board that includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
+Understanding the aviation industry landscape is essential for stakeholders as they explore diversification. This involves recognizing market dynamics, Aircraft models, and risks associated with the aviation industry.
 
-It is up to you to decide what data to use, how to deal with missing values, how to aggregate the data, and how to visualize it in an interactive dashboard.
+We must fufil the following to provide reccomandations to the stake holders:
+-Stake holders goals
+-Risk avertion(accidents,fatalities,injuries...etc)
+-Financial considerations
 
-### Key Points
 
-* **Your analysis should yield three concrete business recommendations.** The key idea behind dealing with missing values, aggregating and visualizaing data is to help your organization make data driven decisions. You will relate your findings to business intelligence by making recommendations for how the business should move forward with the new aviation opportunity.
 
-* **Communicating about your work well is extremely important.** Your ability to provide value to an organization - or to land a job there - is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of the aviation division) can follow by walking them through the steps of your process, highlighting the most important points and skipping over the rest.
+##  Data Understanding & Data  Analysis
 
-* **Use plenty of visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
+### Data source 
+this is the data sorce to be used in this analysis project [dataset](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses)from the National Transportation Safety Board that includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters. 
 
-## Deliverables
+### Data understanding
+-Firstly we convert our csv file into a dataframe, so it easier to clean and analysis(overall better to work with sorted data)
+-***Data understanding involves gathering and exploring relevant data*** to gain insights into the aviation industry and aircraft models.
+-Key aspects include **assessing data quality, completeness, and relevance, as well as understanding the variables.**
 
-There are three deliverables for this project:
 
-* A **non-technical presentation**
-* A **Jupyter Notebook**
-* A **GitHub repository**
-* An **Interactive Dashboard**
+### Data cleaning
+-After understanding the kind of data we have access to we must clean it
+-Data cleaning is a critical process that involves **identifying and rectifying inaccuracies, inconsistencies, and missing values within the collected datasets.**
+- We identified the percentage(%) of total number of values missing in all columns.This provides a basis on each column and their relevance to provide key insights to our project.
+- Columns missing a higher % of data are dropped and columns not required in our analysis are dropped eg. Latitude,Longitude,Schedule...etc
+-We the remove duplicates, standarde formats, filling in missing information through estimation 
+
+
+### Data Aggregation
+-After cleaning and preparing our data now we must group the data to find insights.
+-Data aggregation involves **compiling and summarizing raw data to create a cohesive dataset that highlights key trends and insights**.
+-We use the **.groupby()** method on various columns in our data eg. Model & Total.Fatal.Injuries, Make & Total.Fatal.Injuries...etc
+-This process typically includes grouping data by specific attributes, such as Model,Country, Injury.Severity ,Country,Aircraft.damage,Aircraft.Category...etc
+
+
+### Data visualisation
+-This is the last step, we must create graphical represantions of our data.So it can be undestood and interpreted better.
+
+
+
+
+
+
+###
 
 ### Non-Technical Presentation
 
