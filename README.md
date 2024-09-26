@@ -49,25 +49,25 @@ this is the data sorce to be used in this analysis project [dataset](https://www
 
 ### Data visualisation
 -This is the last step, we must create **graphical represantions of our data.So it can be undestood and interpreted better.**
+
 -Make  + Total.FAtal.Injuries **piechart**, show the top 10  makes with the most fatal inuries .
--**line graph** between Total.FAtal.Injuries aand year, shows us the tiemframe in which these  fatalitie ha ppened  
-
-![image](https://github.com/user-attachments/assets/8f17da85-17f6-4888-99f5-e5408c71df55)
-
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/2d4b4acf-6142-4c2b-8fda-6e4b94a49c62)
-
-
-
 
 
 
 ![Uploading image.png…]()
+
+
+
+
+
+
+
+
+
+
+
+-**line graph** between Total.FAtal.Injuries aand year, shows us the tiemframe in which these  fatalitie ha ppened  
+
 
 
 
