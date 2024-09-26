@@ -49,6 +49,7 @@ this is the data sorce to be used in this analysis project [dataset](https://www
 
 ### Data visualisation
 -This is the last step, we must create **graphical represantions of our data.So it can be undestood and interpreted better.**
+This helps non-technical people understand the data and make beter decisions based what the data shows.
 
 -Make  + Total.FAtal.Injuries **piechart**, show the top 10  makes with the most fatal inuries .
 
