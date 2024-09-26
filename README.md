@@ -64,7 +64,7 @@ This helps non-technical people understand the data and make beter decisions bas
 
 
 
-
+---------------------------------------------------------------------------------------------------
 
 
 -**line graph** between Total.FAtal.Injuries aand year, shows us the tiemframe in which these  fatalities happened
@@ -81,7 +81,10 @@ This helps non-technical people understand the data and make beter decisions bas
 
 
 
+-------------------------------------------------------------------------------------------------------------------------------------
 
+
+-**Boxplot** it helps to show us the outliers,mean,median and inter-quartile range on a visual represantation
 ### Recomendations
 following analysis and everyother step above the following would be my recommendations:
 
