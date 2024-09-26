@@ -85,6 +85,16 @@ This helps non-technical people understand the data and make beter decisions bas
 
 
 -**Boxplot** it helps to show us the outliers,mean,median and inter-quartile range on a visual represantation
+
+
+
+![image](https://github.com/user-attachments/assets/254577b4-b983-4b24-b438-2a676eadf398)
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
 ### Recomendations
 following analysis and everyother step above the following would be my recommendations:
 
