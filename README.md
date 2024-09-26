@@ -99,6 +99,10 @@ This helps non-technical people understand the data and make beter decisions bas
 -**HEATMAP** it help us find a pattern,correlation and performance metrics based on  Number.of.Engines   ,Total.Fatal.Injuries  ,  Total.Seriuos.Injuries, Total.Minor.Injuries and Total.Uninjured 
 
 
+
+![image](https://github.com/user-attachments/assets/3f22acdf-9e81-4352-bd3d-861f5f4218c6)
+
+--------------------------------------------------------------------------------------------------------------------------------
 ### Recomendations
 following analysis and everyother step above the following would be my recommendations:
 
