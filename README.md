@@ -84,8 +84,7 @@ This helps non-technical people understand the data and make beter decisions bas
 -------------------------------------------------------------------------------------------------------------------------------------
 
 
--**Boxplot** it helps to show us the outliers,mean,median and inter-quartile range on a visual represantation
-
+-**Boxplot** it helps to show us the outliers,mean,median and inter-quartile range on a visual represantation of Total.Fatal.Injuries by Weather.Condition
 
 
 ![image](https://github.com/user-attachments/assets/254577b4-b983-4b24-b438-2a676eadf398)
@@ -95,6 +94,11 @@ This helps non-technical people understand the data and make beter decisions bas
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
+
+
+-**HEATMAP** it help us find a pattern,correlation and performance metrics based on  Number.of.Engines   ,Total.Fatal.Injuries  ,  Total.Seriuos.Injuries, Total.Minor.Injuries and Total.Uninjured 
+
+
 ### Recomendations
 following analysis and everyother step above the following would be my recommendations:
 
