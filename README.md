@@ -54,19 +54,25 @@ this is the data sorce to be used in this analysis project [dataset](https://www
 
 
 
+![image](https://github.com/user-attachments/assets/468115ae-e987-4087-8117-3a1cc16c7e85)
+
+
+
+
+
+
+
+
+
+
+
+-**line graph** between Total.FAtal.Injuries aand year, shows us the tiemframe in which these  fatalities happened
+
+
+
+
 ![Uploading image.png…]()
 
-
-
-
-
-
-
-
-
-
-
--**line graph** between Total.FAtal.Injuries aand year, shows us the tiemframe in which these  fatalitie ha ppened  
 
 
 
@@ -81,8 +87,12 @@ following analysis and everyother step above the following would be my recommend
 -**public sector would be a better investment than private sector**- planes used for the purpose of private usage were more likely to crash.
 
 ### Conclusion
-through this analysis project we identified clear pattern recognition for our stakeholders to consider as they look to expand into the aviation indusrty
-For a better and deeper understabnding of the visualisation can be accesed on the tableau linnk:
+through this analysis project we identified clear pattern recognition for our stakeholders to consider as they look to expand into the aviation indusrty.
+stakeholders can easily interpret and understand what the data is about, therefore making a more data backed  decision when expanding their porfolio into the aviation industry. 
+
+
+### Refrences 
+For a better and deeper understanding of the visualisation can be accessed on the tableau link:
 https://public.tableau.com/app/profile/imran.awadh/viz/phase1tableau/Dashboard1?publish=yes
 
 
